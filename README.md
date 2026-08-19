@@ -22,6 +22,7 @@ A fully functional GraphQL Weather API that accepts requests and sends responses
 
 ### Step 1: Start the Application
 ```
+# Clone solution In Visual Studio 2022 and above version
 # In Visual Studio, press F5
 # OR use terminal:
 dotnet run
