@@ -39,7 +39,7 @@ https://localhost:7002/
 ```
 ?? QUERY ENDPOINTS (Read)
 ?  ?? GET  /api/graphql/schema
-?  ?? GET  /api/graphql/examples
+?  ?? GET  /api/graphql/execute 
 ?  ?? POST /api/graphql/query/forecasts
 ?  ?? POST /api/graphql/query/forecast/{id}
 ?
