@@ -40,10 +40,10 @@ https://localhost:7002/
 ### Endpoints Summary
 ```
 ?? QUERY ENDPOINTS (Read)
-?  ?? GET  /api/graphql/schema
-?  ?? GET  /api/graphql/execute 
-?  ?? POST /api/graphql/query/forecasts
-?  ?? POST /api/graphql/query/forecast/{id}
+?  ?? GET  /api/graphql/schema  -- showing schema defination
+?  ?? GET  /api/graphql/execute -- input raw query
+?  ?? POST /api/graphql/query/forecasts -- Mutation
+?  ?? POST /api/graphql/query/forecast/{id} -- execute by Id
 ?
 ?? MUTATION ENDPOINTS (Write)
 ?  ?? POST /api/graphql/mutation/add-forecast
