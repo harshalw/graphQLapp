@@ -1,7 +1,7 @@
 # GraphQL Weather API - Complete Documentation Index
 
 ### ? Infrastructure
-- **HotChocolate GraphQL** - GraphQL library for .NET
+- **HotChocolate GraphQL** - GraphQL library
 - **Swashbuckle Swagger** - Interactive API documentation
 - **.NET Core 9** - Latest framework
 - **In-Memory Storage** - Quick testing database
@@ -15,6 +15,7 @@ A fully functional GraphQL Weather API that accepts requests and sends responses
 - **Query Operations** - Get all forecasts, get by ID
 - **Mutation Operations** - Create new forecast
 - **Full Model Fields** - All 6 fields returned in every response
+- **Execute requered fields** - as per query its gives response
 - **Swagger Integration** - Auto-launching documentation
 - **Multiple Testing Options** - Swagger UI, cURL, Postman
 
